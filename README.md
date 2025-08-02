@@ -139,10 +139,8 @@ mcp-exercise/
 └── README.md             # Project documentation �
 ```
 
-## Technical Notes 📝
-- The MCP server uses stdio transport for client-server communication 💬
-- Weather data is sourced from the reliable wttr.in API 🌐
-- All utilities include proper error handling for robust operation 💪
-- The project demonstrates both traditional and modern Python file handling approaches 🐍
-
-Enjoy exploring the MCP capabilities and happy coding! ✨
+## Notes
+- The MCP server uses stdio transport for communication
+- Weather data is fetched from wttr.in API
+- All directory utilities include proper error handling
+- The project demonstrates both traditional and modern Python file handling approaches
